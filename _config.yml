@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Dan Johnson / Mr. T Wannabe"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Dan Johnson"
 description              : &description "personal description"
 url                      : https://Dxjohn9.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
